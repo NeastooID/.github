@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://github.com/yusup909/ReadMee/blob/main/a6cc8b081a0ce93967582afe4e2f624d.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://github.com/NeastooID/.github/blob/main/profile/8467864e6143d5b94dba8cc936688e41.jpg" width="40%" style="margin-left: auto;margin-right: auto;display: block;">
 
 </p>
 
