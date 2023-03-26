@@ -6,7 +6,6 @@
 
 <h1 align='center'>hello, this is a little about me</h1>
 <p align='center'>Hi There, I'm YusupKakuu</p>
-
 <p align='center'>
 <p align='center'>Web NeastooID : https://s.id/yusupkakuu
   
