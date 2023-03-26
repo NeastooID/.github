@@ -8,7 +8,6 @@
 <p align='center'>Hi There, I'm YusupKakuu</p>
 
 <p align='center'>
-  
 <p align='center'>Web NeastooID : https://s.id/yusupkakuu
   
 ----------
