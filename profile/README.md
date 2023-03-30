@@ -1,5 +1,9 @@
 <p align="center">
 
+<p align="center">
+
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;My+name+is+JAROT-OFFC;IKUTIN-SOSIALMEDIA+SAYA!!;JANGAN+LUPA+JOIN+GROUP%2C++Bwang+%3A);jangan+lupa+kasih+start+!" alt="budii">
+
 <img src="https://github.com/glospotnew/botbug/blob/master/IMG-20230328-WA0056.png" width="90%" style="margin-left: auto;margin-right: auto;display: block;">
 
 </p>
