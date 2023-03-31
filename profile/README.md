@@ -9,7 +9,7 @@
 </p>
 
 <h1 align='center'>hello, this is a little about me</h1>
-<p align='center'> ## ["Komunitas Magang Online"]
+<p align='center'> ## [ >> Komunitas Heker EpEp << ] ##
 <p align='center'>
 <p align='center'>Web NeastooID : https://s.id/yusupkakuu
   
