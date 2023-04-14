@@ -4,7 +4,7 @@
 
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;Too+NeastooID;IKUTIN-SOSIAL-MEDIA-KAMI!!;JANGAN+LUPA+JOIN+GROUP%2C++BWANGG+%3A);jangan+lupa+kasih+stars+!" alt="budii">
 
-<img src="https://github.com/glospotnew/botbug/blob/master/IMG-20230328-WA0056.png" width="90%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://github.com/NeastooID/.github/blob/main/profile/8467864e6143d5b94dba8cc936688e41.jpg" width="90%" style="margin-left: auto;margin-right: auto;display: block;">
 
 </p>
 
