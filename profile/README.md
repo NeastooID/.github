@@ -1,7 +1,8 @@
 <p align="center">
   
 -------------
-  
+
+<p align="center">
 <img src="https://github.com/NeastooID/.github/blob/main/profile/81152a53e87b39330ba85cbaf30cc02d.jpg" width="90%" style="margin-left: auto;margin-right: auto;display: block;">
 
 </p>
