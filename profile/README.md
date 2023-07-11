@@ -3,14 +3,12 @@
 -------------
 
 <p align="center">
-<img src="https://github.com/NeastooID/.github/blob/main/profile/81152a53e87b39330ba85cbaf30cc02d.jpg" width="90%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://github.com/NeastooID/.github/blob/main/profile/81152a53e87b39330ba85cbaf30cc02d.jpg" width="70%" style="margin-left: auto;margin-right: auto;display: block;">
 
 </p>
 
 <h1 align='center'>Welcome!!!</h1>
-<p align='center'> ## [ >> Comunity Wabot Record << ] ##
-<p align='center'>
-<p align='center'>Web NeastooID : https://s.id/yusupkakuu
+<p align='center'> Udah Sih Gitu Doang
   
 ----------
 ### Special Thanks to
