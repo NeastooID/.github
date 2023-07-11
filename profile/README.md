@@ -12,4 +12,4 @@
   
 ----------
 ### Special Thanks to
-[![Zevano](https://github.com/zevanoo.png?size=100)](https://github.com/zevanoo)[![YusupKakuu](https://github.com/Npnpc.png?size=100)](https://github.com/yusup909)[![Aysel](https://github.com/TukangM.png?size=100)](https://github.com/TukangM)[![GlospotOfc](https://github.com/glospotnew.png?size=100)](https://github.com/glospotnew)
+[![Zevano](https://github.com/zevanoo.png?size=100)](https://github.com/zevanoo)[![YusupKakuu](https://github.com/Npnpc.png?size=100)](https://github.com/yusup909)[![Aysel](https://github.com/TukangM.png?size=100)](https://github.com/TukangM)[![GlospotOfc](https://github.com/glospotnew.png?size=100)](https://github.com/glospotnew)[![Kotorichan](https://github.com/Kotorichanbot.png?size=100)](https://github.com/Kotorichanbot)
